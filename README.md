@@ -1,4 +1,7 @@
-# api documentation for  [material-design-icons-iconfont (v3.0.3)](https://github.com/jossef/material-design-icons-iconfont)  [![npm package](https://img.shields.io/npm/v/npmdoc-material-design-icons-iconfont.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-material-design-icons-iconfont) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-material-design-icons-iconfont.svg)](https://travis-ci.org/npmdoc/node-npmdoc-material-design-icons-iconfont)
+# npmdoc-material-design-icons-iconfont
+
+#### basic api documentation for  [material-design-icons-iconfont (v3.0.3)](https://github.com/jossef/material-design-icons-iconfont)  [![npm package](https://img.shields.io/npm/v/npmdoc-material-design-icons-iconfont.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-material-design-icons-iconfont) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-material-design-icons-iconfont.svg)](https://travis-ci.org/npmdoc/node-npmdoc-material-design-icons-iconfont)
+
 #### Material Design icons by Google
 
 [![NPM](https://nodei.co/npm/material-design-icons-iconfont.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/material-design-icons-iconfont)
@@ -59,7 +62,8 @@
         "url": "git+https://github.com/jossef/material-design-icons-iconfont.git"
     },
     "scripts": {},
-    "version": "3.0.3"
+    "version": "3.0.3",
+    "bin": {}
 }
 ```
 
